@@ -130,14 +130,14 @@ section::before {
 }
 
 #work-1:hover::after {
-  content: "Web Project";
+  content: "E-library Project";
 }
 
 #work-2 {
   grid-area: work-2;
 }
 #work-2:hover::after {
-  content: "Web Project";
+  content: "UI/UX Design App Auction";
 }
 
 #work-3 {
@@ -145,7 +145,7 @@ section::before {
 }
 
 #work-3:hover::after {
-  content: "Web Project";
+  content: "UI/UX Design App Grocery";
 }
 
 .contact {
